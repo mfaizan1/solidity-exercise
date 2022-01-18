@@ -24,5 +24,7 @@ This repo contains all the solidity projects i built to learn solidity
 
 	This folder also contains very poorly written test to make sure above smart contracts are working fine.
 
+	It was initialized with truffle and you can use same to deploy this contract or run tests. 
+
 
 	 
